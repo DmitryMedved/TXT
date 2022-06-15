@@ -1,0 +1,5 @@
+first name = Dmitry
+last name = Medved
+age = 38
+number of pets = null
+future desire salary = 1000
