@@ -1,1 +1,1 @@
-information learned in the course = Git Bash, Git Hub, XML. TXT, JSON
+information_learned_in_the_course=GitBash, GitHub, XML. TXT, JSON
